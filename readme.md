@@ -27,7 +27,10 @@ conda config --add channels pytorch
 
 ### now we can start coding. 
 ```bash
-conda install transfomers
-
+conda install -c conda-forge transformers
+conda install ipykernel
 ```
+
+In VScode install the python tools, and then I can run interactive python files in a jupyter notebook like way. 
+
 
